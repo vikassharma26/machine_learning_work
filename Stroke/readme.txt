@@ -11,7 +11,7 @@ Findings :
 
 - Seperated the dataset with the stroke status (where 0 - no stroke , 1 - stroke) to further analyze the data
 
-- As we seperated the stroke status (0 and 1) We found that people who had stroke are relatively old peoples compared to the people who never had stroke, Also people who had stroke generally had high glucose level and body mass index
+- As we seperated the data with stroke status (0 and 1) We found that people who had stroke are relatively old peoples compared to the people who never had stroke, Also people who had stroke generally had high glucose level and body mass index
 
 - People with private jobs are most affected with stroke in comparison with other type of jobs
 
