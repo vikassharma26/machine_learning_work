@@ -33,5 +33,4 @@ Findings :
 - Tried to check if anyhow parents education affect student preperation, We found that parents education has no direct relation with student's preparedness
 
 
-
-Then finally build a machine learning model to predict how would student perform. Performance parameters are (0 - Excellent , 1 - Good , 2 - Poor)
+Then finally build a machine learning model to predict how would student perform. Performance metrics which we've assigned are (0 - Excellent , 1 - Good , 2 - Poor)
